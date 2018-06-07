@@ -13,12 +13,17 @@
 }
 .box_3 {
 }
+.ellipse {
+}
 ._图片 {
   color:#000000;
 }
 .placeholder {
 }
 .button {
+}
+.primary_button {
+  color:#FFFFFF;
 }
 .link_button {
   color:#169BD5;
@@ -84,6 +89,8 @@
 }
 .table_cell {
 }
+.menu_item {
+}
 ._连接线 {
 }
 .sticky_1 {
@@ -117,6 +124,9 @@
   font-size:24px;
   text-align:left;
 }
+._树节点 {
+  text-align:left;
+}
 ._多行文本框 {
   color:#000000;
   text-align:left;
@@ -136,6 +146,9 @@
 ._表格 {
 }
 ._单元格 {
+}
+._复选框 {
+  text-align:left;
 }
 ._形状 {
   font-family:'Arial Normal', 'Arial';
