@@ -87,6 +87,9 @@
 .checkbox {
   text-align:left;
 }
+.tree_node {
+  text-align:left;
+}
 .table_cell {
 }
 .menu_item {
@@ -164,6 +167,11 @@
   font-size:13px;
   color:#000000;
 }
+._单选按钮 {
+  font-size:13px;
+  color:#000000;
+  text-align:left;
+}
 ._垂直线 {
 }
 ._多行文本框1 {
@@ -179,6 +187,11 @@
 ._图片1 {
   font-size:13px;
   color:#000000;
+}
+._复选框1 {
+  font-size:13px;
+  color:#000000;
+  text-align:left;
 }
 ._水平线 {
 }
